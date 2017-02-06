@@ -1,0 +1,21 @@
+    .content {
+        background-color: lemonchiffon;
+        color: dimgrey;
+        width: 800px;
+        margin: 5px auto;
+    }
+    h1 {
+        color: black;
+        font-family: "微軟正黑體";
+        border-bottom: 1px solid steelblue;
+        text-align: center;
+    }
+    .movie-img {
+        border: 1px solid silver;
+        padding: 5pt;
+        margin: 10pt;
+        float: left;
+    }
+    p:hover {
+        color: red;
+    }
